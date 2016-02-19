@@ -21,6 +21,7 @@ import { HeroDetailComponent } from './hero-detail.component';
     
 })
 
+
 @RouteConfig([
         {
             path:'/heroes',
@@ -43,4 +44,5 @@ import { HeroDetailComponent } from './hero-detail.component';
 
 export class AppComponent {
   title = 'Tour of Heroes';
+  
 }
