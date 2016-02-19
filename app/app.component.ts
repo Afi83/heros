@@ -24,7 +24,7 @@ import { HeroDetailComponent } from './hero-detail.component';
 @RouteConfig([
         {
             path:'/heroes',
-            name: 'Heroes'
+            name: 'Heroes',
             component: HeroesComponent
         },
         {
